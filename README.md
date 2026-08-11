@@ -1,4 +1,8 @@
-<h1>#hiyasarkar@github</h1>
+<h1 align="center">
+  <span style="color:#2196F3; font-family:'Fira Code', monospace;">
+    ~hiyasarkar@github
+  </span>
+</h1>
 
 ### Hi, I'm Hiya Sarkar 👋
 <p align="center">
