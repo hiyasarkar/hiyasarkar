@@ -1,5 +1,8 @@
 <p align="center">
-  <span style="font-family: 'Courier New', monospace; font-size: 32px; color: #2196F3; font-weight: 400;">
+  <span style="font-family: 'Fira Code', 'Courier New', monospace; 
+               font-size: 32px; 
+               font-weight: 400; 
+               color: #2196F3;">
     ~hiyasarkar@github
   </span>
 </p>
