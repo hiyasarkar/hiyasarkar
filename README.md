@@ -5,6 +5,53 @@
     alt="Typing SVG"
   />
 </p>
+### 🚀 Behind My Code 
+
+<hr style="margin-top:0;height:0.5px;" />
+
+#### 💻 Languages:
+
+<div style="display:flex; gap:4px">
+<img alt="Javascript" src="https://img.shields.io/badge/-Javascript-3C3C3C?style=plastic&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAACVUlEQVR4nGNgGAWjYBSMgkEJvt+X+z+YMMOoB+6PxsD/0SREChjoJPN9NBPfH/hQ/z5ajN4f+JD/PlqR3R8cmIFUMNAO/j7qgfsDH+rfR5PQfUpCjBGOl04VQZE7s1Pyf6gv939xUZb/LMyM/yXFWf5HBvD8P7tTcvB7YPtSsf8c7Ewo8gxQzMXJBJYftB74elfuv4IsK1ycnY3pv4YKG5iGiZkasP//dm+QeuDkNgm4GBMT4//TOyBJ5tZRqf9K8qz/cxL5/r++Kjt4Y2DXCnG4GCgZfbyFcOy769gdPqg8cPuYNIq4rxvX/5tHpIg0bxB4AIRd7ThR5DjYmf4nhvP+v7xfamh44N4J6f/62uwYJRAzMyPYI28Gcx6AYZAjy7L5//NwYRanOups/59fkBncHoDhp+dk/jeXCfwXE2FBUZ8VzzewHgCV9/g8gF7Ov7gkAy7/YeplJFno5wFQKeLjwvV/3VxRuNjVA1IoHliLJDe3T/i/kS47RnnfXSsIV8/GykQfDyyeLAKu/mGlSU4S3/+JzUL/LU04UDwAavuA1IPaPzAxe0vO/3eOS4PFn1+U+W9rjtADqq3p4oFL+6TgHsCFVRRY4Ummpx4RyiDMyMj4X0qCBaUpAcKlWfz0S0I7l4v95+Nhxup4UFLYugTROAN5pCJHAK+Hbcw4sBalNPMACD84Jf0/O4Hvv6wUK7g8BzWTAz25/x/fLIFV/aH1Ev/D/Xn+qylBGnIC/Mxgh09pE/r/+TauUo2GHqAHZhj1wP3RGPhP1yQ0CkbBKBgFDPQAANX6rlnxM/hBAAAAAElFTkSuQmCC" />
+
+<img alt="Python" src="https://img.shields.io/badge/-Python-3C3C3C?style=plastic&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAADGUlEQVR4nO2YPWgUQRTHZ2dzM5dYaCFBAiaFNkZRBMUuiI0fRdBCwSZFolj4kWCSmRMJhyksBJVgI2qhhYIpFEREczPZmUSDSBo/kIAERWMnETQmSDRPdm89g4TczCXrXnD/8Jpr9vfb92Z25hBKkiRJEoTAQTy3GWcEd7i8i7l4hZkYx0x+x1xMYi4+YCaeOlxecrncgbJZXD5vrUNsDIC5BNNyuHiITnor40ZHKHuvCjM5ZgNfKCaHYu+Ey/p3lgQflpvJ7YpVAHPZHL7NMXRK1COeq8VcvrAYpe54BZhoy4PIa39+k13mAvJiWQgUOtAu6+w6IMtEoMRyEoGYu+SEHQBN2kBTmFVToOkzUGTfUhWAoBSdAU0Plf70jLfW4fJy+KWdWMi8lySgg/oKMl1nze52ykbM5LfFhi5BAEDRs3b0+e1w0d/4HALnzQTIqBW/w0VP1PBBMXEsEFDk9LwCfnlVq4wFMBNvohcQn1H7o+p8B+jtogKK7DGjb/VWYC5mIhaY8A+CyId/sqw6WKjFBVrNBHhuezTjIn9iJt87TF5FHXLN78eBpreKwufrjNn4ZORBy1EYwVw2oc6+muBmZhgAhEHRC4bw/k50zkyAi6Pmu4i4iY4/oKbQhZFRqQOg6LAxfH6EuJkAEy2GW2A/ynoVAdTjyhrQtAc0eQua/rAC06YC6SYjAbdT7DWZZ8T61gXwXsUW0ORTJNB6Vg2mNpn1mMn1BgJDeXiUBk3eRQ6v6CQMo5SZwP5et9hX2OHiSiCgSGPk8DqoO8gmDhPS6AyjyIl/AD/tj6mVAGbiiJFAsTPMYsAr2oysw3PL5/u/J2KBKdD0NShy3XzhzhGXid2YiemSBRSN98IehMsGf7//+16wdASKZMEjpGKW/M8EyBgMkHrQ6dWg6POlJ6BI4e9H0KSrTARoi4XAR/BSG2AwXQuavgwFuuMVCEZiAWvAo4djFTC+z869gL9YXdQjExhGVaDJDTt4Mgo63YDKKaAqtvrXPlBEh0fsifAsMw6KjoCi90GRLAxUboNe5MbNmyRJElQe+QWgfIcmva+j+wAAAABJRU5ErkJggg==" />
+</div>
+
+#### 🛠️ Frameworks:
+
+<div style="display:flex; gap:4px">
+<img alt="Express" src="https://img.shields.io/badge/-ExpressJS-3C3C3C?style=plastic&logo=express" />
+
+<img alt="Flask" src="https://img.shields.io/badge/-Flask-3C3C3C?style=plastic&logo=flask" />
+
+<img alt="React" src="https://img.shields.io/badge/-React-3C3C3C?style=plastic&logo=react" />
+</div>
+
+#### 🗄️ Database and ORM(s):
+
+<div style="display:flex; gap:4px">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-3C3C3C?style=plastic&logo=data:image/png;base64,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" />
+
+<img alt="SQLAlchemy" src="https://img.shields.io/badge/-SQLAlchemy-3C3C3C?style=plastic&logo=sqlalchemy" />
+</div>
+
+#### 🚀 Managed Backends:
+
+<div style="display:flex; gap:4px">
+<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-3C3C3C?style=plastic&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAADhUlEQVR4nO2ZT4hVVRzHP5WTqOQiNy0UAsGFG8lVuJFU3GQrUchNtCjdxKihhqNpKqXhzHNMxMFm7i3BYEAo/EM66jhzjv9wIFGRFKU/lhsLXEiBf+Yr97zxed+8e59N99w374E/+O7u4vM5v/PO/M4ZeF4NWAqZr5C/FTCXRiyFtCtECrisDbxIo5UCepxAMe/SaKWAP2IC19VBE41S2sdEBQzGBKKt9AGNUgp4swy+mD/VzTgaoRTyfoJA1IXlZd+JF1TgpAp8Tz2VQr5MEbijr3ml9F0bi1VALq3Mpl5KIYcSBYoSLe6bbl5SG1dLAgVOUi+lkJupAiF3tZdXVWBpDP6ZXVC03SxbZbils7yeH3w34xTyqIqA1MU2tXGrQiClC4rgDTtlkYvhvfwEvuGNqvBRtvFQ2yvgE7ugaKtZOkvwRYEt+Ql0saQqfCfSSqTPUgRiXRiC/7YMvpju/AQCNlcV+BypGWk5qtYFXeFlWQ4kwEcd+Ck/gZADqfB7kVYMCUTZmCKwg1My/JAIb13uRb+LfAQCrqYKbIrBp3WhHelIKrhKOcdk//AdNCnkfiJ8xxBw87B8+j/gLdJp5vgX6GR66upvSICPd2En0o//Ed66LPMvELAwEX53yuo/SXQiHR0RvGRozUNgfaLAuirwa5AOjxDeuhzMQ2B/BfxXVeA/GfG2USzX/AuEXBw2uElrU+DXZoKXLA804PGWF13cFfBPmUAhBb4F6VgmeLn0M82fQMjUitVfkwC/HqnHA7x1R+nb/gS6eKdMYHsCfPSX94QneOuywp9AwOrYuCytyh1eMuz2JxASxMblcvjNSL2e4a0TOO5PIOB82bj8BH4L0qkc4K3L737goxtTdFWMj8tRvkDqyw1eMgzqKBOyC+xjcsW4vNUdc/nB25LEDF8v0U/H5dYawVsnsMiHQHNpXC4MtbYW8NalJbtAwB43Lu+qObxkCbML7OJndfBoFOAlw5nsAt/xW83BbUngr+wChnmyXBkFgevqZ0FmAScxQJMMzTLcrQH4PRk26ghjvcCXiZxnkgztsjzMYbsMuoeuXl7zDl4h0sdMWYxH+As6zazcwRMeZRfJ8GsG+NsyfCiN4n86NcB4t2ct/45gxe+7rXiOidRLqY8pKY+1w9OjfqZTryXLWzJcSjwWfV4T8yz1MkaWj2S4IcMvMnzs9ZXheVE/9RhWKOxUDYbwOwAAAABJRU5ErkJggg==" />
+
+<img alt="Supabase" src="https://img.shields.io/badge/-Supabase-3C3C3C?style=plastic&logo=supabase" />
+</div>
+
+#### ☁️ Cloud Services:
+
+<div style="display:flex; gap:4px">
+<img alt="Vercel" src="https://img.shields.io/badge/-Vercel-3C3C3C?style=plastic&logo=vercel" />
+
+<img alt="Render" src="https://img.shields.io/badge/-Render-3C3C3C?style=plastic&logo=render" />
+</div>
+
+<br/>
 
 
 
