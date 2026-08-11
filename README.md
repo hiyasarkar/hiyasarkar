@@ -1,3 +1,5 @@
+<h1>#hiyasarkar@github</h1>
+
 ### Hi, I'm Hiya Sarkar 👋
 <p align="center">
   <img
@@ -6,7 +8,6 @@
   />
 </p>
 
-hiyasarkar@github
 
 ### 🚀 Behind My Code 
 
