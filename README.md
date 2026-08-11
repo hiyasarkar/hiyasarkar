@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=~hiyasarkar@github&fontColor=2196F3&fontSize=32&fontAlignY=50&font=Fira%20Code"
+    src="https://capsule-render.vercel.app/api?type=transparent&text=~hiyasarkar@github&fontColor=2196F3&fontSize=32&fontAlignY=50&font=Fira%20Code"
     alt="~hiyasarkar@github"
   />
 </p>
