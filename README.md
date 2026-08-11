@@ -1,5 +1,5 @@
 <h1 align="center">
-  <span style="color:#2196F3; font-family:'Fira Code', monospace;">
+  <span style="color:#2196F3; font-family:'Fira Code',">
     ~hiyasarkar@github
   </span>
 </h1>
