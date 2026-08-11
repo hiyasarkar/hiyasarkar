@@ -1,11 +1,10 @@
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=32&pause=100000&color=2196F3&center=true&vCenter=true&width=700&height=60&lines=~hiyasarkar%40github"
-    alt="~hiyasarkar@github"
-  />
+  <code style="font-size: 28px; color: #2196F3; font-weight: normal;">
+    ~hiyasarkar@github
+  </code>
 </p>
 
-<p align = "center">### Hi, I'm Hiya Sarkar 👋</p>
+### Hi, I'm Hiya Sarkar 👋
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=150&color=2196F3&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Building+real-world+projects&speed=70&delete=50"
