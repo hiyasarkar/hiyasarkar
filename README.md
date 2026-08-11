@@ -1,7 +1,7 @@
 <p align="center">
-  <code style="font-size: 28px; color: #2196F3; font-weight: normal;">
+  <span style="font-family: 'Courier New', monospace; font-size: 32px; color: #2196F3; font-weight: 400;">
     ~hiyasarkar@github
-  </code>
+  </span>
 </p>
 
 ### Hi, I'm Hiya Sarkar 👋
