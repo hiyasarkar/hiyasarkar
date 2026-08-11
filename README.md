@@ -1,13 +1,11 @@
 <p align="center">
-  <span style="font-family: 'Fira Code', 'Courier New', monospace; 
-               font-size: 32px; 
-               font-weight: 400; 
-               color: #2196F3;">
-    ~hiyasarkar@github
-  </span>
+  <img
+    src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=~hiyasarkar@github&fontColor=2196F3&fontSize=32&fontAlignY=50&font=Fira%20Code"
+    alt="~hiyasarkar@github"
+  />
 </p>
 
-### Hi, I'm Hiya Sarkar 👋
+### Hi, I'm Hiya Sarkar 👋, enthusiast about tech and would like to solve real world problems
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=150&color=2196F3&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;AI%2FML+Enthusiast;Building+real-world+projects&speed=70&delete=50"
